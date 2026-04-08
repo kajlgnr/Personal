@@ -12,8 +12,10 @@ tags:
 - 1 Sjalottløk 
 - 1 Lime
 - 2 Chili
-- 
+- Salt
+- Chili krydder
 ---
 ## Fremgangsmåte
-- Ta ut fyllet av tomatene og del de opp i passe store biter
-- 
+- Ta ut fyllet av tomatene og del de opp i passe store biter og ha de i en bolle
+- Finhakk chili, vårløk og sjalottløk og ha det i bollen
+- Del limen i 2 og klem saften over 

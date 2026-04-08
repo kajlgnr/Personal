@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a5f4cc93398bdb0",
+        "id": "8a62d4642bb852cf",
         "type": "tabs",
         "children": [
           {
-            "id": "fa208e07de93118a",
+            "id": "0f7611939f77be28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Middag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oppskrifter/Eggelikør.md"
+                "file": "Oppskrifter/Salsa.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eggelikør"
+              "title": "Outline of Salsa"
             }
           },
           {
@@ -161,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20e54fdf42d79186",
+  "active": "0f7611939f77be28",
   "lastOpenFiles": [
     "Oppskrifter/MAL.md",
+    "2026-04-08.md",
     "Oppskrifter/Salsa.md",
+    "Untitled.base",
     "Oppskrifter/Rullekake.md",
     "Oppskrifter/Kylling med pesto pasta.md",
     "Oppskrifter/Chilli con carne.md",
