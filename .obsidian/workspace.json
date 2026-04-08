@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oppskrifter/Salsa.md",
+                "file": "Oppskrifter/Kylling med pesto pasta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Salsa"
+              "title": "Kylling med pesto pasta"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oppskrifter/Salsa.md",
+                "file": "Oppskrifter/Kylling med pesto pasta.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Salsa"
+              "title": "Outline of Kylling med pesto pasta"
             }
           },
           {
@@ -181,14 +181,14 @@
   },
   "active": "0f7611939f77be28",
   "lastOpenFiles": [
-    "Oppskrifter/MAL.md",
-    "2026-04-08.md",
-    "Oppskrifter/Salsa.md",
-    "Untitled.base",
     "Oppskrifter/Rullekake.md",
-    "Oppskrifter/Kylling med pesto pasta.md",
-    "Oppskrifter/Chilli con carne.md",
     "Oppskrifter/Eggelikør.md",
+    "Oppskrifter/Chilli con carne.md",
+    "Oppskrifter/MAL.md",
+    "Oppskrifter/Kylling med pesto pasta.md",
+    "Oppskrifter/Salsa.md",
+    "2026-04-08.md",
+    "Untitled.base",
     "Bunad/Antrekket.md",
     "Bunad/Bilder/PXL_20260408_092333188.jpg",
     "Bunad/Bilder/PXL_20260408_093810977.jpg",
