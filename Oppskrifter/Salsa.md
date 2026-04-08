@@ -15,4 +15,5 @@ tags:
 - 
 ---
 ## Fremgangsmåte
+- Ta ut fyllet av tomatene og del de opp i passe store biter
 - 
