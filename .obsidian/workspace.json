@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oppskrifter/Mat/Pizzabunn.md",
+                "file": "Oppskrifter/Dessert/Bryllupskake (mandler).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pizzabunn"
+              "title": "Bryllupskake (mandler)"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Filutforsker"
             }
           },
           {
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Suppe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Søk"
             }
           },
           {
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,10 +131,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Tagger"
             }
           },
           {
@@ -162,43 +165,43 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Åpne hurtigåpner": false,
+      "graph:Åpne grafvisning": false,
+      "canvas:Opprett ny Canvas": false,
+      "daily-notes:Åpne dagens notat": false,
+      "templates:Sett inn mal": false,
+      "command-palette:Åpne kommandovelger": false,
+      "bases:Opprett ny base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f7611939f77be28",
+  "active": "ced41c92214e57a3",
   "lastOpenFiles": [
-    "Oppskrifter/Mat/Salsa.md",
-    "Oppskrifter/Mat/Kylling med pesto pasta.md",
-    "Oppskrifter/Mat/Chilli con carne.md",
+    "Oppskrifter/Dessert/Rullekake.md",
+    "Oppskrifter/Dessert/Bryllupskake (mandler).md",
+    "Oppskrifter/Mat/Blomkålsuppe.md",
+    "Oppskrifter/MAL.md",
     "Oppskrifter/Mat/Pizzabunn.md",
+    "Oppskrifter/Mat/Kylling med pesto pasta.md",
+    "Oppskrifter/Mat/Salsa.md",
+    "Oppskrifter/Mat/Chilli con carne.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled 2.base",
     "Oppskrifter/Mat/Untitled.md",
-    "Oppskrifter/Dessert/Bryllupskake (mandler).md",
     "Oppskrifter/Drikke/Likører (frukt og bær).md",
     "Oppskrifter/Drikke/Eggelikør.md",
     "Oppskrifter/Drikke",
     "Oppskrifter/Mat",
     "Oppskrifter/Dessert",
-    "Oppskrifter/Dessert/Rullekake.md",
-    "Oppskrifter/MAL.md",
     "2026-04-08.md",
     "Bunad/Antrekket.md",
     "Bunad/Bilder/PXL_20260408_092333188.jpg",

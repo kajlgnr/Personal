@@ -4,7 +4,7 @@ tags:
   - Middag
   - Pizza
 ---
-### Gir en porsjon
+### Gir to porsjoner
 ## Ingredienser 
 
 - 7 dl hvetemel
