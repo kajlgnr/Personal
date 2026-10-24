@@ -2,6 +2,8 @@
 tags:
   - Mat
   - Middag
+  - Kylling
+  - Pasta
 ---
 ### Gir en porsjon
 ## Ingredienser 

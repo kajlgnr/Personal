@@ -2,6 +2,7 @@
 tags:
   - Mat
   - Middag
+  - Pizza
 ---
 ### Gir en porsjon
 ## Ingredienser 

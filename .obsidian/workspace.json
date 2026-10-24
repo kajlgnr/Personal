@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oppskrifter/Mat/Salsa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Salsa"
-            }
-          },
-          {
-            "id": "1259695b08ae9dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Oppskrifter/Mat/Pizzabunn.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "Pizzabunn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Middag",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,23 +181,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1259695b08ae9dff",
+  "active": "0f7611939f77be28",
   "lastOpenFiles": [
     "Oppskrifter/Mat/Salsa.md",
-    "Oppskrifter/Mat/Untitled.md",
+    "Oppskrifter/Mat/Kylling med pesto pasta.md",
+    "Oppskrifter/Mat/Chilli con carne.md",
     "Oppskrifter/Mat/Pizzabunn.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Oppskrifter/Mat/Untitled.md",
     "Oppskrifter/Dessert/Bryllupskake (mandler).md",
     "Oppskrifter/Drikke/Likører (frukt og bær).md",
     "Oppskrifter/Drikke/Eggelikør.md",
-    "Oppskrifter/Mat/Chilli con carne.md",
-    "Oppskrifter/Mat/Kylling med pesto pasta.md",
     "Oppskrifter/Drikke",
     "Oppskrifter/Mat",
     "Oppskrifter/Dessert",
     "Oppskrifter/Dessert/Rullekake.md",
     "Oppskrifter/MAL.md",
     "2026-04-08.md",
-    "Untitled.base",
     "Bunad/Antrekket.md",
     "Bunad/Bilder/PXL_20260408_092333188.jpg",
     "Bunad/Bilder/PXL_20260408_093810977.jpg",
