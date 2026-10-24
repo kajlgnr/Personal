@@ -27,3 +27,7 @@ tags:
 4. Stek bacon sprøtt i en stekepanne. 
 5. Vend inn vårløk og stek et minutt til vårløken er mør.
 6. Fordel blomkålbuketter i suppeskåler og hell over suppe. Pynt med bacon og vårløk.
+
+
+### Kilde
+https://www.matprat.no/oppskrifter/familien/blomkalsuppe/

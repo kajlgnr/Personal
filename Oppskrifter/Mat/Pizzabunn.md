@@ -26,17 +26,11 @@ Pizzadeigen kan eltes for hånd, men blir aller best om du elter i en kjøkkenma
     
 	![Pizzadeig trinnbilder](https://images.matprat.no/3nauh8tsp4-normal/710/04_tomatsaus.webp)
     
-    4.
-    
-    Form deigen til én stor pizza, eller to mindre - alternativt andre former. Bak ut, og topp med favorittfyllet ditt!
-    
-    Temperatur på ovn og steketid varierer etter hva du skal lage, her er noen forslag: 
-    
-    Langpannepizza: 225 °C  i ca. 20 minutter
-    
-    Pizzasnurrer: 225 °C  i 12-15 minutter
-    
-    Tynn pizza på pizzastein/stål: 275-300 °C  (eller så høyt ovnen går) i 3-5 minutter
+4. Form deigen til én stor pizza, eller to mindre - alternativt andre former. Bak ut, og topp med favorittfyllet ditt!
+	Temperatur på ovn og steketid varierer etter hva du skal lage, her er noen forslag:     
+    - Langpannepizza: 225 °C  i ca. 20 minutter    
+    - Pizzasnurrer: 225 °C  i 12-15 minutter        
+    - Tynn pizza på pizzastein/stål: 275-300 °C  (eller så høyt ovnen går) i 3-5 minutter
     
 
 Er du på jakt etter en god pizzasaus, kan [hjemmelaget pizzasaus](https://www.matprat.no/oppskrifter/familien/hjemmelaget-pizzasaus/ "hjemmelaget pizzasaus") eller [hvit pizzasaus](https://www.matprat.no/oppskrifter/rask/hvit-pizzasaus/ "hvit pizzasaus") være noen å teste. vil du ha det enkelt, men fortsatt godt, sjekk ut vår [enkle pizzasaus](https://www.matprat.no/oppskrifter/rask/enkel-pizzasaus/ "enkle pizzasaus"). 
