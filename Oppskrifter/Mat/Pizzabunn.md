@@ -16,20 +16,13 @@ tags:
 ## Fremgangsmåte
 Pizzadeigen kan eltes for hånd, men blir aller best om du elter i en kjøkkenmaskin. Elter du deigen for hånd bør vannet du bruker være lunkent (ca. 37 °C). I en kjøkkenmaskin vil temperaturen på deigen øke gradvis under elting, og det er derfor smartere å bruke kaldt vann for at ikke deigen skal bli for varm. 
 
-1. 
-    
-    1.Ha mel i en bakebolle, og ha i gjær. Bruker du fersk gjær kan den smuldres rett i melet fordi deigen skal elte så lenge at alt blandes godt sammen. Kjør i gang maskinen, og hell i vann. 
+1. Ha mel i en bakebolle, og ha i gjær. Bruker du fersk gjær kan den smuldres rett i melet fordi deigen skal elte så lenge at alt blandes godt sammen. Kjør i gang maskinen, og hell i vann. 
 	![Pizzadeig trinnbilder](https://images.matprat.no/f7acldv7cv-normal/710/02_olje.webp)
-    
-    2.
-    
-    Elt deigen i ca. 10 minutter på middels hastighet, før du har i olje og salt. Elt videre til alt er godt blandet.
-    
+	
+2. Elt deigen i ca. 10 minutter på middels hastighet, før du har i olje og salt. Elt videre til alt er godt blandet.   
 	 ![Pizzadeig trinnbilder](https://images.matprat.no/fhlt4hc3kb-normal/710/03_deigball.webp)
     
-    3.
-    
-    Dekk til bollen, og sett deigen på et lunt sted. Hev til dobbel størrelse.
+3. Dekk til bollen, og sett deigen på et lunt sted. Hev til dobbel størrelse.
     
 	![Pizzadeig trinnbilder](https://images.matprat.no/3nauh8tsp4-normal/710/04_tomatsaus.webp)
     

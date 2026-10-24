@@ -1,3 +1,9 @@
+---
+tags:
+  - Dessert
+  - Bakst
+  - Kake
+---
 
 En mektig og god konfektkake med sjokoladekrem og sjokoladeglasur. Kaken er velegnet til frysing. Oppskriften kan også halveres og stekes i en vanlig rund form.
 
