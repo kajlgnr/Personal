@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oppskrifter/Mat/Pizzabunn.md",
+                "file": "Oppskrifter/Mat/Salsa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pizzabunn"
+              "title": "Salsa"
+            }
+          },
+          {
+            "id": "1259695b08ae9dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oppskrifter/Mat/Pasta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pasta"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,12 +56,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Filutforsker"
+              "title": "Files"
             }
           },
           {
@@ -55,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Middag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Søk"
+              "title": "Search"
             }
           },
           {
@@ -130,12 +143,10 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tagger"
+              "title": "Tags"
             }
           },
           {
@@ -144,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oppskrifter/MAL.md",
+                "file": "Oppskrifter/Kylling med pesto pasta.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposisjon"
+              "title": "Outline of Kylling med pesto pasta"
             }
           },
           {
@@ -173,36 +184,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Åpne hurtigåpner": false,
-      "graph:Åpne grafvisning": false,
-      "canvas:Opprett ny Canvas": false,
-      "daily-notes:Åpne dagens notat": false,
-      "templates:Sett inn mal": false,
-      "command-palette:Åpne kommandovelger": false,
-      "bases:Opprett ny base": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f7611939f77be28",
+  "active": "1259695b08ae9dff",
   "lastOpenFiles": [
-    "Oppskrifter/Mat/Kylling med pesto pasta.md",
-    "Oppskrifter/Mat/Chilli con carne.md",
-    "Oppskrifter/Mat/Blomkålsuppe.md",
     "Oppskrifter/MAL.md",
-    "Oppskrifter/Mat/Pizzabunn.md",
+    "Oppskrifter/Mat/Pasta.md",
     "Oppskrifter/Dessert/Bryllupskake (mandler).md",
-    "Oppskrifter/Dessert/Rullekake.md",
-    "Oppskrifter/Drikke/Eggelikør.md",
-    "Oppskrifter/Mat/Salsa.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Untitled 2.base",
-    "Oppskrifter/Mat/Untitled.md",
+    "Oppskrifter/Mat/Pizzabunn.md",
+    "Oppskrifter/Mat/Blomkålsuppe.md",
     "Oppskrifter/Drikke/Likører (frukt og bær).md",
+    "Oppskrifter/Drikke/Eggelikør.md",
+    "Oppskrifter/Mat/Chilli con carne.md",
+    "Oppskrifter/Mat/Kylling med pesto pasta.md",
+    "Oppskrifter/Mat/Salsa.md",
     "Oppskrifter/Drikke",
     "Oppskrifter/Mat",
     "Oppskrifter/Dessert",
+    "Oppskrifter/Dessert/Rullekake.md",
     "2026-04-08.md",
+    "Untitled.base",
     "Bunad/Antrekket.md",
     "Bunad/Bilder/PXL_20260408_092333188.jpg",
     "Bunad/Bilder/PXL_20260408_093810977.jpg",
